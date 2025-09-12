@@ -7,3 +7,6 @@ Add the assets to any compatible minimap streaming setup. No install guide inclu
 - @RRixxles
 - @NeenGame
 - abdel4999 (concept & assembly)
+# Documentation
+- join my [discord](https://discord.gg/bf5qs226RV) for support 
+- check the docs [here](https://abdelemporium-docs.gitbook.io/frostbytestudios/ui-and-hud-enhancements/fst-enhanced-minimap) 
